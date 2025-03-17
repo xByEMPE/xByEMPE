@@ -48,7 +48,7 @@ Aquí algunas de las tecnologías y herramientas que manejo y sigo explorando, e
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="30"/> **GitHub**
 
 ### Otros
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="30"/> **Docker**
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="45"/> **Docker**
 - **APIs** y **frameworks de IA**
 *Estoy siempre en búsqueda de nuevas tecnologías y metodologías para potenciar la eficiencia y la innovación en cada proyecto.*
 
