@@ -4,7 +4,7 @@
 
 ---
 
-![Machine Learning](https://dribbble.com/shots/6254368-Machine-Learning/attachments/6254368-Machine-Learning?mode=media)
+![Machine Learning](https://cdn.dribbble.com/userupload/42127393/file/original-cced2b07add4266d8bee04ec243fc0b4.gif)
 
 ## Sobre mí
 
