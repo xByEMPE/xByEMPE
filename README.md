@@ -4,6 +4,8 @@
 
 ---
 
+![Machine Learning](https://dribbble.com/shots/6254368-Machine-Learning/attachments/6254368-Machine-Learning?mode=media)
+
 ## Sobre mí
 
 Soy un apasionado de la tecnología y la innovación con 3 años de experiencia en el sector eólico. Durante 2 años me desempeñé como piloto certificado de drones, participando en proyectos tanto comerciales como industriales. Mi experiencia combina habilidades técnicas en el mantenimiento de aerogeneradores con la capacidad de optimizar operaciones mediante tecnología avanzada.
