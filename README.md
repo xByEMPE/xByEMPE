@@ -56,7 +56,11 @@ Aquí algunas de las tecnologías y herramientas que manejo y sigo explorando, e
 
 ## Contacto
 
-- [jeengaher@gmail.com](mailto:jeengaher@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/jengaher99/)
+<a href="mailto:jeengaher@gmail.com" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" width="30"/>
+</a>
+<a href="https://www.linkedin.com/in/jengaher99/" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="30"/>
+</a>
 
 ¡Gracias por visitar mi perfil!
