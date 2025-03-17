@@ -24,13 +24,10 @@ Aquí algunas de las tecnologías y herramientas que manejo y sigo explorando, e
 
 
 ### Lenguajes de Programación
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30"/> **Python** - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="30"/> **SQL**
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30"/> **Python** -- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="30"/> **SQL**
 
 ### Machine Learning & Deep Learning
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="30"/> **TensorFlow**
-- <img src="https://keras.io/img/logo.png" alt="Keras" width="60"/> **Keras**
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="30"/> **PyTorch**
-- <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="30"/> **Scikit-Learn**
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="30"/> **TensorFlow** -- <img src="https://keras.io/img/logo.png" alt="Keras" width="60"/> **Keras* --  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="30"/> **PyTorch** -- <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="30"/> **Scikit-Learn**
 
 ### Análisis y Manipulación de Datos
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="30"/> **Pandas**
