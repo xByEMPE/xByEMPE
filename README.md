@@ -22,32 +22,33 @@ Aquí algunas de las tecnologías y herramientas que manejo y sigo explorando, e
 
 ## Tecnologías y Herramientas
 
+
 ### Lenguajes de Programación
-- ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) **Python**
-- ![SQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg) **SQL**
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30"/> **Python**
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="30"/> **SQL**
 
 ### Machine Learning & Deep Learning
-- ![TensorFlow](https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg) **TensorFlow**
-- ![Keras](https://upload.wikimedia.org/wikipedia/commons/e/e8/Keras_logo.png) **Keras**
-- ![PyTorch](https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg) **PyTorch**
-- ![Scikit-Learn](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg) **Scikit-Learn**
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="30"/> **TensorFlow**
+- <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Keras_logo.png" alt="Keras" width="30"/> **Keras**
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="30"/> **PyTorch**
+- <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="30"/> **Scikit-Learn**
 
 ### Análisis y Manipulación de Datos
-- ![Pandas](https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg) **Pandas**
-- ![NumPy](https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg) **NumPy**
-- ![Jupyter Notebook](https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg) **Jupyter Notebook**
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="30"/> **Pandas**
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="30"/> **NumPy**
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="30"/> **Jupyter Notebook**
 
 ### Visualización de Datos
-- ![Matplotlib](https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg) **Matplotlib**
-- ![Seaborn](https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/logo/thumbnail.png?raw=true) **Seaborn**
-- ![Plotly](https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg) **Plotly**
+- <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="30"/> **Matplotlib**
+- <img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/logo/thumbnail.png?raw=true" alt="Seaborn" width="30"/> **Seaborn**
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" alt="Plotly" width="30"/> **Plotly**
 
 ### Control de Versiones y Colaboración
-- ![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg) **Git**
-- ![GitHub](https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg) **GitHub**
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="30"/> **Git**
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="30"/> **GitHub**
 
 ### Otros
-- ![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg) **Docker**
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="30"/> **Docker**
 - **APIs** y **frameworks de IA**
 *Estoy siempre en búsqueda de nuevas tecnologías y metodologías para potenciar la eficiencia y la innovación en cada proyecto.*
 
