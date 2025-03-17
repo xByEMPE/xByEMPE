@@ -4,7 +4,7 @@
 
 ---
 
-![Machine Learning](https://cdn.dribbble.com/userupload/42127393/file/original-cced2b07add4266d8bee04ec243fc0b4.gif)
+![Machine Learning](https://rizqonfadillahtipoltektegal.wordpress.com/wp-content/uploads/2020/11/1_ltjx9ze971qwtha7gko3pa-1.gif)
 
 ## Sobre mí
 
