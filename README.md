@@ -20,13 +20,35 @@ Me destaco por ser un profesional de rápido aprendizaje, con excelente comunica
 
 Aquí algunas de las tecnologías y herramientas que manejo y sigo explorando, especialmente en el ámbito del Machine Learning y la Inteligencia Artificial:
 
-- **Lenguajes de Programación:** Python y SQL
-- **Machine Learning & Deep Learning:** TensorFlow, Keras, PyTorch, Scikit-Learn
-- **Análisis y Manipulación de Datos:** Pandas, NumPy, Jupyter Notebook
-- **Visualización de Datos:** Matplotlib, Seaborn, Plotly
-- **Control de Versiones y Colaboración:** Git, GitHub
-- **Otros:** Docker, APIs, frameworks de IA
+## Tecnologías y Herramientas
 
+### Lenguajes de Programación
+- ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) **Python**
+- ![SQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg) **SQL**
+
+### Machine Learning & Deep Learning
+- ![TensorFlow](https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg) **TensorFlow**
+- ![Keras](https://upload.wikimedia.org/wikipedia/commons/e/e8/Keras_logo.png) **Keras**
+- ![PyTorch](https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg) **PyTorch**
+- ![Scikit-Learn](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg) **Scikit-Learn**
+
+### Análisis y Manipulación de Datos
+- ![Pandas](https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg) **Pandas**
+- ![NumPy](https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg) **NumPy**
+- ![Jupyter Notebook](https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg) **Jupyter Notebook**
+
+### Visualización de Datos
+- ![Matplotlib](https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg) **Matplotlib**
+- ![Seaborn](https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/logo/thumbnail.png?raw=true) **Seaborn**
+- ![Plotly](https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg) **Plotly**
+
+### Control de Versiones y Colaboración
+- ![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg) **Git**
+- ![GitHub](https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg) **GitHub**
+
+### Otros
+- ![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg) **Docker**
+- **APIs** y **frameworks de IA**
 *Estoy siempre en búsqueda de nuevas tecnologías y metodologías para potenciar la eficiencia y la innovación en cada proyecto.*
 
 ---
