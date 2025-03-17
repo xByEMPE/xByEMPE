@@ -29,7 +29,7 @@ Aquí algunas de las tecnologías y herramientas que manejo y sigo explorando, e
 
 ### Machine Learning & Deep Learning
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="30"/> **TensorFlow**
-- <img src="https://keras.io/img/logo.png" alt="Keras" width="40"/> **Keras**
+- <img src="https://keras.io/img/logo.png" alt="Keras" width="50"/> **Keras**
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="30"/> **PyTorch**
 - <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="30"/> **Scikit-Learn**
 
