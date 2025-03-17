@@ -4,7 +4,9 @@
 
 ---
 
-![Machine Learning](https://rizqonfadillahtipoltektegal.wordpress.com/wp-content/uploads/2020/11/1_ltjx9ze971qwtha7gko3pa-1.gif)
+<div align="center">
+  <img src="https://rizqonfadillahtipoltektegal.wordpress.com/wp-content/uploads/2020/11/1_ltjx9ze971qwtha7gko3pa-1.gif" alt="Machine Learning">
+</div>
 
 ## Sobre mí
 
