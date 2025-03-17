@@ -24,8 +24,7 @@ Aquí algunas de las tecnologías y herramientas que manejo y sigo explorando, e
 
 
 ### Lenguajes de Programación
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30"/> **Python**
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="30"/> **SQL**
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30"/> **Python** - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="30"/> **SQL**
 
 ### Machine Learning & Deep Learning
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="30"/> **TensorFlow**
