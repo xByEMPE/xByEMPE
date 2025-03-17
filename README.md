@@ -57,10 +57,10 @@ Aquí algunas de las tecnologías y herramientas que manejo y sigo explorando, e
 ## Contacto
 
 <a href="mailto:jeengaher@gmail.com" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" width="100"/>
+  <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" width="80"/>
 </a>
 <a href="https://www.linkedin.com/in/jengaher99/" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="100"/>
+  <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="80"/>
 </a>
 
 ¡Gracias por visitar mi perfil!
