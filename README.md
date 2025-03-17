@@ -31,7 +31,7 @@ Aquí algunas de las tecnologías y herramientas que manejo y sigo explorando, e
 
 ## Contacto
 
-- [Correo Electrónico](jeengaher@gmail.com)
+- [jeengaher@gmail.com](mailto:jeengaher@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/jengaher99/)
 
 ¡Gracias por visitar mi perfil!
