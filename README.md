@@ -40,7 +40,7 @@ Aquí algunas de las tecnologías y herramientas que manejo y sigo explorando, e
 
 ### Visualización de Datos
 - <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="30"/> **Matplotlib**
-- <img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/logo/thumbnail.png?raw=true" alt="Seaborn" width="30"/> **Seaborn**
+- <img src="https://user-images.githubusercontent.com/315810/92159303-30d41100-edfb-11ea-8107-1c5352202571.png" alt="Seaborn" width="30"/> **Seaborn**
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" alt="Plotly" width="30"/> **Plotly**
 
 ### Control de Versiones y Colaboración
