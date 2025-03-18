@@ -55,5 +55,4 @@ Aquí algunas de las tecnologías y herramientas que manejo y sigo explorando, e
 <a href="https://www.linkedin.com/in/jengaher99/" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="80"/>
 </a>
----
 ¡Gracias por visitar mi perfil!
