@@ -41,7 +41,7 @@ Aquí algunas de las tecnologías y herramientas que manejo y sigo explorando, e
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="30"/> **Git**   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="30"/> **GitHub**
 
 ### Otros
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="45"/> **Docker**   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Logo_Plesk.svg/1024px-Logo_Plesk.svg.png" alt="Plesk" width="45"/> **Docker**
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="45"/> **Docker**   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Logo_Plesk.svg/1024px-Logo_Plesk.svg.png" alt="Plesk" width="45"/> **Plesk**
 - **APIs** y **frameworks de IA**
 *Estoy siempre en búsqueda de nuevas tecnologías y metodologías para potenciar la eficiencia y la innovación en cada proyecto.*
 
