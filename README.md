@@ -10,7 +10,7 @@
 
 ## Sobre mí
 
-Soy un apasionado de la tecnología y la innovación con 3 años de experiencia en el sector eólico. Durante 2 años me desempeñé como piloto certificado de drones, participando en proyectos tanto comerciales como industriales. Mi experiencia combina habilidades técnicas en el mantenimiento de aerogeneradores con la capacidad de optimizar operaciones mediante tecnología avanzada.
+Soy un apasionado de la tecnología y la innovación con 4 años de experiencia en el sector eólico. Durante 2 años me desempeñé como piloto certificado de drones, participando en proyectos tanto comerciales como industriales. Mi experiencia combina habilidades técnicas en el mantenimiento de aerogeneradores con la capacidad de optimizar operaciones mediante tecnología avanzada.
 
 He culminado una carrera en Data Science, lo que me permite integrar el análisis de datos con mi experiencia en campo para ofrecer soluciones estratégicas e innovadoras.
 
